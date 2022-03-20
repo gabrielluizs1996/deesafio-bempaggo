@@ -10,7 +10,7 @@ Um formulário para cadastro de compra de adesivos.
 
 ## Install Project
 ```sh
-$ git clone https://github.com/gabrielluizs1996/bieloteca.git
+$ git clone https://github.com/gabrielluizs1996/deesafio-bempaggo.git
 $ cd desafio-bempaggo
 $ npm i
 $ npm start
